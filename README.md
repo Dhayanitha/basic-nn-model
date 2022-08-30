@@ -11,6 +11,7 @@ Explain the problem statement
 ## Neural Network Model
 
 Include the neural network model diagram.
+![WhatsApp Image 2022-08-29 at 8 35 46 AM](https://user-images.githubusercontent.com/75235032/187334902-48776795-1773-49d3-997e-abae99b637ae.jpeg)
 
 ## DESIGN STEPS
 
@@ -84,18 +85,24 @@ AI_BRAIN.predict(x_n1_1)
 
 Include screenshot of the dataset
 
+![D4](https://user-images.githubusercontent.com/75235032/187334728-17957598-3d5f-4d10-b543-706dab4122b0.png)
+
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
 Include your plot here
+![D1](https://user-images.githubusercontent.com/75235032/187334588-5939c704-d6b9-4fb4-97e2-945d3b483007.png)
 
 ### Test Data Root Mean Squared Error
 
 Find the test data root mean squared error
+![D2](https://user-images.githubusercontent.com/75235032/187334606-f926eddd-c851-463c-a388-99e97ba9096b.png)
 
 ### New Sample Data Prediction
 
 Include your sample input and output here
+![D3](https://user-images.githubusercontent.com/75235032/187334623-c4a9c09f-8e6a-4101-8281-10f183ef6d3d.png)
 
 ## RESULT
+Thus,the neural network regression model for the given dataset is developed.
